@@ -1,0 +1,12 @@
+[
+  {
+    "title": "test",
+    "artist": "作曲者",
+    "noter": "譜面作者",
+    "folder": "test",
+    "beatmap_7k_1": {
+      "filename": "test7.bme",
+      "playlevel": 1
+    }
+  }
+]
