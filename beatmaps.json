@@ -9,6 +9,45 @@
         }
     },
     {
+        "title": "LOVE☆TUNE",
+        "artist": "ODAMAKI",
+        "noter": "ODAMAKI",
+        "folder": "ODAMAKI - LOVE☆TUNE",
+        "jacket": "jacket.png",
+        "beatmap_4k_1": {
+            "filename": "easyKey4LOVETUNE.bme",
+            "playlevel": 1
+        },
+        "beatmap_5k_1": {
+            "filename": "easyKey4LOVETUNE.bme",
+            "playlevel": 1
+        },
+        "beatmap_6k_1": {
+            "filename": "easyKey4LOVETUNE.bme",
+            "playlevel": 1
+        },
+        "beatmap_7k_1": {
+            "filename": "easyKey4LOVETUNE.bme",
+            "playlevel": 1
+        },
+        "beatmap_4k_2": {
+            "filename": "normalKey4LOVETUNE.bme",
+            "playlevel": 3
+        },
+        "beatmap_5k_2": {
+            "filename": "normalKey5LOVETUNE.bme",
+            "playlevel": 3
+        },
+        "beatmap_6k_2": {
+            "filename": "normalKey6LOVETUNE.bme",
+            "playlevel": 3
+        },
+        "beatmap_7k_2": {
+            "filename": "normalKey7LOVETUNE.bme",
+            "playlevel": 3
+        }
+    },
+    {
         "title": "てんてこまいまい",
         "artist": "ODAMAKI",
         "noter": "ODAMAKI",
