@@ -71,19 +71,19 @@
         },
         "beatmap_4k_2": {
             "filename": "normalKey4tentekomaimai.bme",
-            "playlevel": 3
+            "playlevel": 4
         },
         "beatmap_5k_2": {
             "filename": "normalKey5tentekomaimai.bme",
-            "playlevel": 3
+            "playlevel": 4
         },
         "beatmap_6k_2": {
             "filename": "normalKey6tentekomaimai.bme",
-            "playlevel": 3
+            "playlevel": 4
         },
         "beatmap_7k_2": {
             "filename": "normalKey7tentekomaimai.bme",
-            "playlevel": 3
+            "playlevel": 4
         }
     }
 ]
