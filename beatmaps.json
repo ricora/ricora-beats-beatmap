@@ -95,5 +95,13 @@
         "folder": "YurA - Lost Artifact",
         "jacket": "LostArtifactCover.png",
         "preview": "LostArtifact_shichou.wav"
+    },
+    {
+        "title": "Talent Show",
+        "artist": "YurA",
+        "noter": "YurA",
+        "folder": "YurA - Talent Show",
+        "jacket": "TalentShowCover.png",
+        "preview": "TalentShowShort_shichou.wav"
     }
 ]
