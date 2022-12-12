@@ -87,5 +87,13 @@
             "filename": "normalKey7tentekomaimai.bme",
             "playlevel": 4
         }
+    },
+    {
+        "title": "Lost Artifact",
+        "artist": "YurA",
+        "noter": "YurA",
+        "folder": "YurA - Lost Artifact",
+        "jacket": "LostArtifactCover.png",
+        "preview": "LostArtifact_shichou.wav"
     }
 ]
