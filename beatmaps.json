@@ -1,5 +1,13 @@
 [
     {
+        "title": "Rainy Rainy Summer",
+        "artist": "udokatsu",
+        "noter": "",
+        "folder": "udokatsu - Rainy Rainy Summer",
+        "jacket": "dawn.png",
+        "preview": "preview.wav"
+    },
+    {
         "title": "LOVE☆TUNE",
         "artist": "ODAMAKI",
         "noter": "ODAMAKI",
@@ -90,9 +98,25 @@
     {
         "title": "Talent Show",
         "artist": "YurA",
-        "noter": "YurA",
+        "noter": "",
         "folder": "YurA - Talent Show",
         "jacket": "TalentShowCover.png",
         "preview": "TalentShowShort_shichou.wav"
+    },
+    {
+        "title": "誰そ見しか楽園",
+        "artist": "まいはね",
+        "noter": "",
+        "folder": "まいはね - 誰そ見しか楽園",
+        "jacket": "ta.png",
+        "preview": "preview.wav"
+    },
+    {
+        "title": "Daylight Fantasy",
+        "artist": "ろんぽう/うどかつ",
+        "noter": "",
+        "folder": "ろんぽう&うどかつ - Daylight Fantasy",
+        "jacket": "hakuchu.png",
+        "preview": "preview.wav"
     }
 ]
