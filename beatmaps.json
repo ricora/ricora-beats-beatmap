@@ -398,5 +398,12 @@
     "folder": "ODAMAKI - Revive Your Spirits!",
     "jacket": "riJacket.png",
     "preview": "ReviveYourSpiritsShort.wav"
+  },
+  {
+    "title": "Castra",
+    "artist": "tsuki",
+    "noter": "WIP",
+    "folder": "tsuki - Castra",
+    "preview": "23_castra_demo.wav"
   }
 ]
